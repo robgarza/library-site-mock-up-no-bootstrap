@@ -1,0 +1,1 @@
+This project was created as part of an HTML and CSS course I had planned to teach online. I am still working out the kinks, so it's not finished; however, you can still see my abiltiy to create a responsive site with HTML, CSS, and my use of grid and flexbox. I created a Bootstrap version as well which I'll put on GitHub soon
